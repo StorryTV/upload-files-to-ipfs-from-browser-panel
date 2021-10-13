@@ -65,6 +65,7 @@ input[type='file'] {
 	-webkit-appearance: none;
 	box-shadow: 0 2px 5px 2px rgba(19, 35, 47, 0.3);
 	font-weight: bold;
+	border-radius: 4px;
 }
 
 .box_button img {
