@@ -41,7 +41,7 @@ input[type='file'] {
 }
 
 #fileDropBox label {
-	background-color: #3498db;
+	background-color: #7100e2;
 	color: #fff;
 	margin: 10px;
 	padding: 6px 20px;
@@ -59,7 +59,7 @@ input[type='file'] {
 	width: 9rem;
 	text-transform: uppercase;
 	letter-spacing: .1em;
-	background-color: #3498db;
+	background-color: #7100e2;
 	color: #ffffff;
 	transition: all 0.5s ease;
 	-webkit-appearance: none;
