@@ -103,6 +103,10 @@ nav ul ul li {
 	text-align: center;
 }
 
+nav ul ul li:hover {
+	background: rgba(52, 52, 52, 1);
+}
+
 nav ul ul li a {
 	color: #f5f5f5;
 }
