@@ -32,7 +32,7 @@
 
 #fileDropBox label:hover,
 #fileDropBox label:focus {
-	background: #207ab6;
+	background: #4e009d;
 	cursor: pointer;
 }
 
@@ -79,7 +79,7 @@ input[type='file'] {
 
 .box_button:hover,
 .box_button:focus {
-	background: #207ab6;
+	background: #4e009d;
 	cursor: pointer;
 }
 
