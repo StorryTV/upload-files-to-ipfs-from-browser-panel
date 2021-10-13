@@ -23,7 +23,7 @@
 	text-decoration: none;
 	padding: 10px;
 	background: rgba(160, 179, 176, 0.25);
-	color: #a0b3b0;
+	color: #f5f5f5;
 	font-size: 16px;
 	float: left;
 	width: 50%;
@@ -46,7 +46,7 @@
 }
 
 .tab-group li a:hover {
-	background: #4e009d;
+	background: #777777;
 	color: #ffffff;
 	cursor: pointer;
 }
@@ -54,6 +54,13 @@
 .tab-group .active a {
 	background: #7100e2;
 	color: #ffffff;
+	border-radius: 4px;
+	transition-duration: 0.1s;
+}
+
+.tab-group .active a:hover {
+	background: #4e009d;
+	transform: scale(1.01);
 }
 
 .tab-content > div:last-child {
